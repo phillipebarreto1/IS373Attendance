@@ -4,8 +4,8 @@
 
 | Date          | Phillipe Barreto      | Salmaan Saeed |
 | ------------- | :-------------------: | ------------: |
-| 10/18/2023    |        -[x]           |               |
-| 10/20/2023    |        -[x]           |               |
+| 10/18/2023    |      - [ ]            |               |
+| 10/20/2023    |                       |               |
 | 10/25/2023    |                       |               |
 | 10/27/2023    |                       |               |
 | 11/1/2023     |                       |               |
@@ -21,7 +21,4 @@
 | 12/6/2023     |                       |               |
 | 12/8/2023     |                       |               |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
 
