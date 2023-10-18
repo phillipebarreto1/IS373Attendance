@@ -4,7 +4,7 @@
 
 | Date          | Phillipe Barreto      | Salmaan Saeed     |
 | ------------- | :-------------------: | ------------:     |
-| 10/18/2023    |  :heavy_check_mark:   | :heavy_check_mark:|
+| 10/18/2023    |  - [x]                | :heavy_check_mark:|
 | 10/20/2023    |                       |                   |
 | 10/25/2023    |                       |                   |
 | 10/27/2023    |                       |                   |
